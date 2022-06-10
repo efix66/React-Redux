@@ -4,7 +4,7 @@ import Counter from "./features/counter/Counter";
 function App() {
 	return (
 		<div className="App">
-			<h1>React Redux</h1>
+			<p>Counter with Redux</p>
 			<Counter />
 		</div>
 	);
